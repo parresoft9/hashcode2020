@@ -4,6 +4,10 @@ import java.util.ArrayList;
 
 public class Library {
 	
+	public Library() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	private ArrayList<Integer> libros;
 	private int bookPerday;
 	private int score;
